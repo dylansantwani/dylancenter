@@ -5,9 +5,12 @@ domains = [
     'watch.dylansantwani.com',
     'tvplayer.pages.dev',
     'cloudflarepage-1j1.pages.dev',
-    'newgame-d29.pages.dev'
+    'newgame-d29.pages.dev',
+    'dylan.center'
+
 ]
 active = [
+    'T',
     'T',
     'T',
     'T',
