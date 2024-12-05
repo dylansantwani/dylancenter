@@ -7,7 +7,9 @@ domains = [
     'dylancode.com',
     'cloudflarepage-1j1.pages.dev',
     'newgame-d29.pages.dev',
-    'dylan.center'
+    'dylan.center',
+    'nchs.online'
+
 
 ]
 active = [
@@ -19,7 +21,8 @@ active = [
     'T',
     'T',
     'T',
-    'T'
+    'T',
+	'T'
 ]
 for (let i = 0; i < domains.length; i++) {
     let divtoadd = document.getElementById('checkfalse');
