@@ -26,7 +26,7 @@ for (let i = 0; i < domains.length; i++) {
     let checkelement = document.createElement('p');
     checkelement.innerText = domains[i];
     if (active[i] == "T") {
-        let classes = "text-green-400 mr-[25px] flex cursor-pointer";
+        let classes = "text-green-400 mr-[25px] flex cursor-pointer mb-5";
         checkelement.onclick = function () {
             window.location.href = 'https://' + domains[i]
         }; checkelement.className += classes;
