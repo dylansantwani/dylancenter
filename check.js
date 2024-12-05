@@ -4,12 +4,14 @@ domains = [
     'dsgame2.github.io',
     'watch.dylansantwani.com',
     'tvplayer.pages.dev',
+    'dylancode.com',
     'cloudflarepage-1j1.pages.dev',
     'newgame-d29.pages.dev',
     'dylan.center'
 
 ]
 active = [
+    'T',
     'T',
     'T',
     'T',
