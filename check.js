@@ -8,7 +8,8 @@ domains = [
     'cloudflarepage-1j1.pages.dev',
     'newgame-d29.pages.dev',
     'dylan.center',
-    'nchs.online'
+    'nchs.online',
+    'newbackup.pages.dev'
 
 
 ]
@@ -22,7 +23,8 @@ active = [
     'T',
     'T',
     'T',
-	'T'
+	'T',
+    'T'
 ]
 for (let i = 0; i < domains.length; i++) {
     let divtoadd = document.getElementById('checkfalse');
