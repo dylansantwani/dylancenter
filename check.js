@@ -9,7 +9,8 @@ domains = [
     'newgame-d29.pages.dev',
     'dylan.center',
     'nchs.online',
-    'newbackup.pages.dev'
+    'newbackup.pages.dev',
+    'news.dylansantwani.com'
 
 
 ]
@@ -24,6 +25,7 @@ active = [
     'T',
     'T',
 	'T',
+    'T',
     'T'
 ]
 for (let i = 0; i < domains.length; i++) {
